@@ -2,7 +2,7 @@
 > Olá! Eu sou a Giuliana ✨
 ```
 
-<img align="right" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Giuliana" width="320" /> 
+<img align="right" src="https://github.com/giulianasantana/giulianasantana/assets/133705620/e9906cee-397d-47d1-9d7b-9c4d6d2c78f0" alt="Giuliana" width="320" /> 
 
 ```csharp
 giulianasantana@github
