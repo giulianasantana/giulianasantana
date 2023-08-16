@@ -7,7 +7,8 @@
 ```csharp
 giulianasantana@github
 ---------------------------------
-🎓 Produção Multimídia (FAPCOM)
+👩‍🎓 Produção Multimídia (FAPCOM)
+🎓 Análise e Desenvolvimento de Sistemas (UNINTER)
 📌 São Paulo, BR 
 🌱 HTML, CSS, JavaScript
 👩‍💻 Apaixonada por Dev Front-end
